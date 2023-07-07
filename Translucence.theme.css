@@ -13,7 +13,7 @@
 @import url(https://capnkitten.github.io/BetterDiscord/Themes/Translucence/css/source.css);
 
 :root {
-	--app-bg: url(https://moewalls.com/wp-content/uploads/2023/06/silver-wolf-and-kafka-honkai-star-rail-thumb.jpg);
+	--app-bg: url(https://raw.githubusercontent.com/sefanie/Translucence/master/Translucence.theme.css);
 	--app-blur: 1px;
 	--app-margin: 24px;
 	--app-radius: 8px; /*	-	*/
@@ -40,7 +40,7 @@
 	--textarea-color: 255,255,255;
 	--textarea-alpha: 0.1;
 	--textarea-alpha-focus: 0.15;
-	--textarea-text-color: #fff;
+	--textarea-text-color: #1e2b8f;
 	--textarea-radius: 22px;  /*	-	*/
 
 	--card-color: rgba(0,0,0,0.4);
